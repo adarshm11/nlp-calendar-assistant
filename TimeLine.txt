@@ -1,0 +1,8 @@
+1. Setup Swift project. 
+  a. Calendar Structure
+  b. Input field. 
+  c. (Potentially) list of previous calendar events
+  d. Make the app a toolbar app (save this for the last step)
+
+2. Backend implementation. Either we send and retreive requests from a server or we locally use Gemini LLM in the app using api key.
+3. Have the swift app put the ics file into the users calendar automatically. 
